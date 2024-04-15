@@ -67,40 +67,40 @@ document.addEventListener("DOMContentLoaded", function () {
 function handleCardClick(cardId) {
     switch (cardId) {
         case "hammer-curl-card":
-            window.location.href = "biceps.html";
+            window.location.href = "../muscles/biceps.html";
             break;
         case "shoulder-press-card":
-            window.location.href = "omuz.html";
+            window.location.href = "../muscles/omuz.html";
             break;
         case "reverse-curl-card":
-            window.location.href = "forearm.html";
+            window.location.href = "../muscles/forearm.html";
             break;
         case "dumbbell-shrug-card":
-            window.location.href = "trapez.html";
+            window.location.href = "../muscles/trapez.html";
             break;
         case "cable-curl-card":
-            window.location.href = "biceps.html";
+            window.location.href = "../muscles/biceps.html";
             break;
         case "over-head-card":
-            window.location.href = "omuz.html";
+            window.location.href = "../muscles/omuz.html";
             break;
         case "Whey":
-            window.location.href = "aksesuar.html";
+            window.location.href = "..//aksesuar.html";
             break;
         case "Gold":
-            window.location.href = "protein.html";
+            window.location.href = "../store/protein.html";
             break;
         case "Reflex":
-            window.location.href = "amino.html";
+            window.location.href = "../store/amino.html";
             break;
         case "HardLine":
-            window.location.href = "kilohacim.html";
+            window.location.href = "../store/kilohacim.html";
             break;
         case "KingSize1":
-            window.location.href = "amino.html";
+            window.location.href = "../store/amino.html";
             break;
         case "KingSize2":
-            window.location.href = "amino.html";
+            window.location.href = "../store/amino.html";
             break;
         default:
             break;
